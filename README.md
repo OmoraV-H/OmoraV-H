@@ -1,4 +1,4 @@
-![Banner](./Portada.png)
+![Banner](./Portada%20Presentacion.png)
 
 # 👋 Hola soy Oscar Mora
 
